@@ -1,5 +1,7 @@
 # crypto-dir
 
+[![Build Status](https://travis-ci.org/evanlucas/crypto-dir.svg)](https://travis-ci.org/evanlucas/crypto-dir)
+
 Cross platform package to get the data directory for a cryptocurrency
 
 ## Install
