@@ -1,6 +1,6 @@
 {
   "name": "crypto-dir",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cross platform package to get the data directory for a cryptocurrency",
   "main": "index.js",
   "scripts": {
